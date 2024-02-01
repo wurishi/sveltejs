@@ -1,1 +1,1 @@
-# sveltejs
+[link](./note.md)
